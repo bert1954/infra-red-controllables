@@ -1,0 +1,56 @@
+{
+  "name":"LED Strip",
+  "meta":{
+    "productName":"LED strip",
+    "manufacture": "LED strip  inc.",
+    "url":"http://image",
+    "protocol": {"id":1, "name": "RC5"}
+  },
+  "commands":[
+    {
+      "title":"ON",
+      "command":13
+    },        
+
+    {
+      "title":"OFF",
+      "command":31
+    },
+    {
+      "title":"BRIGHT+",
+      "command":9
+    },
+    {
+      "title":"RED",
+      "command":27
+    },
+    {
+      "title":"BLUE",
+      "command":17
+    },
+    {
+      "title":"WHITE",
+      "command":21
+    },
+    {
+      "title":"FLASH",
+      "command":77
+    },
+    {
+      "title":"STROBE",
+      "command":0
+    },        
+    {
+      "title":"GREEN",
+      "command":25
+    },
+    {
+      "title":"FADE",
+      "command":26
+    },
+    {
+      "title":"SOOTH",
+      "command":12
+    }
+  ]
+}
