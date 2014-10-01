@@ -3,8 +3,8 @@
   "meta":{
     "productName":"LED strip",
     "manufacture": "LED strip  inc.",
-    "url":"http://image",
-    "protocol": {"id":1, "name": "RC5"}
+    "website": "http://www.led.strip.com",
+    "image":"http://www.led.strip.com/image."
   },
   "commands":[
     {
