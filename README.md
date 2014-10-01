@@ -13,7 +13,7 @@ the device's details as well as the commands it is capable of receiving.
 
 In order to define your device simply follow the Led Strip example: 
 
-### 1. Start by adding some information about the device: 
+#### 1. Start by adding some information about the device: 
 
     "name":"LED Strip",
     "meta":{
@@ -26,7 +26,7 @@ In order to define your device simply follow the Led Strip example:
  The `name` is the only mandatory attribute in this section.
  All information within `meta` is optional.
  
-### 2. Continue by adding an array of the commands the device is capable of receving.
+#### 2. Continue by adding an array of the commands the device is capable of receving.
 
     "commands":[
     {
