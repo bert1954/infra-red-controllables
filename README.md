@@ -42,6 +42,6 @@ In order to define your device simply follow the Led Strip example:
       "title":"BRIGHT+",
       "command":9
     },
-    ...
-  ]
+    ...]
+  
   
